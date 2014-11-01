@@ -28,3 +28,9 @@
 
 # "temporary" build files
 /target
+.classpath
+.project
+quickstart-app-grailsPlugins.iml
+quickstart-app.iml
+.idea
+*.jar
